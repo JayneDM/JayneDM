@@ -1,8 +1,19 @@
 <h1 align="center">Olá! Eu sou a Jayne 👋</h1>
 
+<h1 align="center" style="color:#F76CBE;">✨ Jayne Douranth Moreira ✨</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Olá,+eu+sou+a+Jayne+Douranth+Moreira!;Estudante+de+Engenharia+da+Computação;Desenvolvedora+em+formação+💻;Apaixonada+por+tecnologia+🚀&center=true&width=440&height=45&pause=1000&color=F76CBE&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Estudante+de+Engenharia+da+Computação;Apaixonada+por+tecnologia+e+código+💻;Criando+com+amor+e+HTML+💖&center=true&width=500&height=45&pause=1000&color=F76CBE&vCenter=true&size=22" alt="Typing animation" />
 </p>
+
+<p align="center">
+  <img src="https://img.icons8.com/color/96/000000/laptop-girl.png" alt="Boneca com notebook rosa e azul" />
+</p>
+
+<p align="center" style="font-size: 18px;">
+  Desenvolvedora em formação • Front-end & Mobile com <strong>Ionic + Angular</strong> 💡
+</p>
+
 
 
 
