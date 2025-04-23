@@ -3,11 +3,11 @@
 <h1 align="center">✨ Jayne Douranth Moreira ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Estudante+de+Engenharia+da+Computação;Apaixonada+por+tecnologia+e+código+💻;Criando+com+amor+e+HTML+💖&center=true&width=500&height=45&pause=1000&color=F76CBE&vCenter=true&size=22" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Estudante+de+Engenharia+da+Computação;Apaixonada+por+tecnologia+e+código+💻;Criando+com+amor+e+HTML+💖&center=true&width=500&height=45&pause=1000&color=F76CBE&vCenter=true&size=22" alt="Typing animation" />
 </p>
 
 <p align="center">
-  <img src="https://img.icons8.com/color/96/000000/laptop-girl.png" alt="Boneca com notebook rosa e azul" />
+  <img src="https://img.icons8.com/color/96/laptop-girl.png" alt="Boneca com notebook rosa e azul" />
 </p>
 
 <p align="center">
