@@ -1,6 +1,12 @@
 <h1 align="center">Olá! Eu sou a Jayne 👋</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Olá,+eu+sou+a+Jayne+Douranth+Moreira!;Estudante+de+Engenharia+da+Computação;Desenvolvedora+em+formação+💻;Apaixonada+por+tecnologia+🚀&center=true&width=440&height=45&pause=1000&color=F76CBE&vCenter=true&size=22" alt="Typing SVG" />
+</p>
+
+
+
+<p align="center">
   🎓 Estudante de <strong>Engenharia da Computação</strong><br>
   💡 Apaixonada por tecnologia, inovação e aprendizado contínuo<br>
   🚀 Explorando o mundo do desenvolvimento com foco em front-end e mobile
