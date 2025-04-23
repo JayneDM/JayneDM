@@ -43,8 +43,8 @@ Sou a Jayne Douranth Moreira, tenho 19 anos e estou cursando Engenharia da Compu
 ---
 
 ### 📫 Vamos nos conectar?
-- LinkedIn: [seu-link-linkedin-aqui](https://linkedin.com/in/seu-link)
-- Email: seuemail@exemplo.com
+- LinkedIn: [www.linkedin.com/in/jayne-douranth-moreira-44821634b](https://linkedin.com/in/seu-link)
+- Email: jaynedouranth11@gmail.com
 
 ---
 
