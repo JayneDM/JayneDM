@@ -1,6 +1,5 @@
 <h1 align="center">Olá! Eu sou a Jayne 👋</h1>
 
-![Garota programando](https://cdn.pixabay.com/photo/2021/03/17/19/41/girl-6104324_1280.png)
 
 
 <p align="center">
