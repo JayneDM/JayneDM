@@ -1,16 +1,6 @@
 <h1 align="center">Olá! Eu sou a Jayne 👋</h1>
 
-<h1 align="center">👩‍💻 Jayne Douranth Moreira</h1>
-
-<p align="center">
-  <img src="https://cdn.pixabay.com/photo/2021/03/17/19/41/girl-6104324_1280.png" alt="Garota programando" width="300"/>
-</p>
-
-<p align="center">
-  Estudante de Engenharia da Computação <br>
-  💻 Front-end & Mobile • 🌸 Apaixonada por tecnologia e design
-</p>
-
+![Garota programando](https://cdn.pixabay.com/photo/2021/03/17/19/41/girl-6104324_1280.png)
 
 
 <p align="center">
