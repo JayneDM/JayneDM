@@ -12,7 +12,7 @@
 
 ### 👩‍💻 Sobre mim
 
-Sou a Jayne Douranth Moreira, tenho 19 anos e estou cursando Engenharia da Computação. Gosto de transformar ideias em interfaces bonitas e funcionais. Estou sempre em busca de novos desafios e oportunidades para aprender e evoluir!
+Jayne Douranth Moreira, tenho 20 anos e estou cursando o 4º periodo de Engenharia da Computação. Gosto de transformar ideias em interfaces bonitas e funcionais. Estou sempre em busca de novos desafios e oportunidades para aprender e evoluir!
 
 ---
 
