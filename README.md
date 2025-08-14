@@ -35,13 +35,6 @@ Jayne Douranth Moreira, tenho 20 anos e estou cursando o 4º periodo de Engenhar
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario-aqui&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-aqui&layout=compact&theme=radical" width="48%" />
-</p>
-
----
 
 ### 📫 Vamos nos conectar?
 - LinkedIn: [www.linkedin.com/in/jayne-douranth-moreira-44821634b](https://linkedin.com/in/seu-link)
